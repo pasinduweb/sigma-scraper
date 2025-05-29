@@ -2,3 +2,5 @@
 samples.xlsx
 output/failed_urls.json
 output/final_output.json
+bin/scraper
+bin/scraper.exe
