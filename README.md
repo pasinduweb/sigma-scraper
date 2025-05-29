@@ -1,6 +1,6 @@
 # Sigma Scraper
 
-A fast and scalable web scraper built with Go for extracting product data from e-commerce sites. It handles modern JavaScript-heavy websites using a headless browser approach with chromedp. Built to process large data sets with strong error handling and efficient concurrency.
+A fast and scalable web scraper written in Go for extracting product data from e-commerce sites. It handles modern JavaScript-heavy websites using a headless browser approach with chromedp. Built to process large data sets with strong error handling and efficient concurrency.
 
 ## Features
 
