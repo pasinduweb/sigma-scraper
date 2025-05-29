@@ -45,7 +45,7 @@ A fast and scalable web scraper built with Go for extracting product data from e
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/conferwithpasindu/sigma-scraper.git
+    git clone https://github.com/pasinduweb/sigma-scraper.git
     cd sigma-scraper
     ```
 
@@ -142,4 +142,4 @@ The scraper generates the following output:
 
 This project is licensed under the MIT License
 
-See the [LICENSE.txt](./LICENSE) file for detailed licensing terms.
+See the [LICENSE](./LICENSE) file for detailed licensing terms.
